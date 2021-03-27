@@ -1,0 +1,20 @@
+body{
+    background-color: #6BC4B2;
+}
+.logout{
+    float: right;
+    margin-right: 150px;
+}
+h1{
+    margin-left: 31%;
+}
+h3{
+    margin-left: 33%;
+}
+.search{
+    margin-left: 26%;
+}
+.col-md-6{
+    margin-left: 25%;
+}
+

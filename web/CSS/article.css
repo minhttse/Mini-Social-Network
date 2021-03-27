@@ -1,0 +1,21 @@
+body{
+    background-color: #6BC4B2;
+}
+
+h1{
+    margin-left: 35%;
+    float: left;
+}
+.col-md-6{
+    margin-left: 25%;
+}
+
+.logout{
+    float: right;
+    margin-right: 150px;
+}
+.back{
+    float: right;
+    margin-right: 150px;
+}
+
